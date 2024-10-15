@@ -1,3 +1,7 @@
+# Завдання 1
+# Додайте метод delete для видалення пар ключ-значення 
+# таблиці HashTable , яка реалізована в конспекті.
+
 class HashTable:
     def __init__(self, size):
         self.size = size
